@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User history and cache files
+*.log
+*.bak
+.bash_history
+.cache/
+mozilla/
+gnome-software/
+gstreamer-1.0/
+mesa_shader_cache_db/
+firefox/
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Compiled files
+*.o
+*.out
+*.class
+
+# Screenshots (optional if you already committed the right ones)
+*.png
